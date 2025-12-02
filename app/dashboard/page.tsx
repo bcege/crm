@@ -17,7 +17,7 @@ const newApplications = [
 
 const courseProgress = {
   ege: { course: "ЕГЭ", lastTopic: "27 задание — Сочинение" },
-  oge: { course: "ОГЭ", lastTopic: "9 задание — Изложение" },
+  oge: { course: "ОГЭ", lastTopic: "6 задание — Орфография" },
 }
 
 const upcomingLessons = [
