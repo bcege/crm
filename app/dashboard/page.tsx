@@ -32,8 +32,8 @@ export default function DashboardPage() {
       <Navbar />
       <main className="container mx-auto px-4 py-8">
         <div className="mb-8">
-          <h1 className="text-3xl font-bold">Добро пожаловать!</h1>
-          <p className="mt-1 text-muted-foreground">Обзор вашей деятельности</p>
+          <h1 className="text-3xl font-bold">Дашборд</h1>
+          <p className="mt-1 text-muted-foreground">CRM БчЕГЭ</p>
         </div>
 
         <div className="mb-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
