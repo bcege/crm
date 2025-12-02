@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils"
 import { ThemeToggle } from "@/components/theme-toggle"
 
 const navItems = [
-  { href: "/dashboard", icon: LayoutDashboard, label: "Главная" },
+  { href: "/dashboard", icon: LayoutDashboard, label: "Дашборд" },
   { href: "/students", icon: Users, label: "Ученики" },
   { href: "/schedule", icon: Calendar, label: "Расписание" },
   { href: "/plan", icon: ClipboardList, label: "План" },
